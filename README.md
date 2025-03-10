@@ -4,6 +4,8 @@ This Go package provides a client for the T.LY URL Shortener API. It includes me
 
 ## Installation
 
+**Obtain an API Token**: Sign up or log in to [T.LY](https://t.ly/settings#/api) and retrieve your API token from the T.LY dashboard.
+
 To install the package, run:
 
 ```bash
