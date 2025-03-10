@@ -1,4 +1,3 @@
-````markdown
 # T.LY Go Client
 
 This Go package provides a client for the T.LY URL Shortener API. It includes methods for all API endpoints such as managing pixels, short links, stats, and tags.
@@ -10,7 +9,6 @@ To install the package, run:
 ```bash
 go get github.com/timleland/t.ly-go-url-shortener-api
 ```
-````
 
 Then import it in your Go code:
 
@@ -246,7 +244,3 @@ fmt.Println("Tag deleted")
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
-```
